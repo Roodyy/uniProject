@@ -1,0 +1,113 @@
+[
+{
+  "university_name": "Tishk University",
+  "id": 1,
+  "location": "Erbil, Iraq",
+  "website": "https://www.tishkuniversity.edu",
+  "email": "info@tishkuniversity.edu",
+  "phone": "+964 (123) 456-7890",
+  "degree": "Bachelor of Science",
+  "building_number": "39605",
+  "random_date": "2024-04-04 08:15:00 UTC"
+}, 
+  {
+  "university_name": "Sunnydale University",
+  "id": 2,
+  "location": "Sunnydale, California, USA",
+  "website": "https://www.sunnydaleuniversity.edu",
+  "email": "info@sunnydaleuniversity.edu",
+  "phone": "+1 (555) 123-4567",
+  "degree": "Bachelor of Arts",
+  "building_number": "1234",
+  "random_date": "2024-04-04 09:30:00 UTC"
+},
+  {
+  "university_name": "Maplewood University",
+  "id": 3,
+  "location": "Maplewood, Ontario, Canada",
+  "website": "https://www.maplewooduniversity.edu",
+  "email": "info@maplewooduniversity.edu",
+  "phone": "+1 (905) 555-7890",
+  "degree": "Bachelor of Business Administration",
+  "building_number": "9876",
+  "random_date": "2024-04-04 10:45:00 UTC"
+},
+  {
+  "university_name": "Oceanview College",
+  "id": 4,
+  "location": "Oceanview, Florida, USA",
+  "website": "https://www.oceanviewcollege.edu",
+  "email": "info@oceanviewcollege.edu",
+  "phone": "+1 (321) 987-6543",
+  "degree": "Bachelor of Education",
+  "building_number": "5678",
+  "random_date": "2024-04-04 11:00:00 UTC"
+},
+  {
+  "university_name": "Golden Gate University",
+  "id": 5,
+  "location": "San Francisco, California, USA",
+  "website": "https://www.goldengateuniversity.edu",
+  "email": "info@goldengateuniversity.edu",
+  "phone": "+1 (415) 555-1234",
+  "degree": "Bachelor of Fine Arts",
+  "building_number": "2468",
+  "random_date": "2024-04-04 12:15:00 UTC"
+},
+  {
+  "university_name": "Evergreen State College",
+  "id": 6,
+  "location": "Olympia, Washington, USA",
+  "website": "https://www.evergreenstatecollege.edu",
+  "email": "info@evergreenstatecollege.edu",
+  "phone": "+1 (360) 555-6789",
+  "degree": "Bachelor of Science",
+  "building_number": "13579",
+  "random_date": "2024-04-04 13:30:00 UTC"
+},
+  {
+  "university_name": "Redwood University",
+  "id": 7,
+  "location": "Redwood City, California, USA",
+  "website": "https://www.redwooduniversity.edu",
+  "email": "info@redwooduniversity.edu",
+  "phone": "+1 (650) 555-9876",
+  "degree": "Bachelor of Arts",
+  "building_number": "31415",
+  "random_date": "2024-04-04 14:45:00 UTC"
+},
+  {
+  "university_name": "Mountainview College",
+  "id": 8,
+  "location": "Mountainview, California, USA",
+  "website": "https://www.mountainviewcollege.edu",
+  "email": "info@mountainviewcollege.edu",
+  "phone": "+1 (408) 555-2468",
+  "degree": "Bachelor of Business Administration",
+  "building_number": "11223",
+  "random_date": "2024-04-04 15:00:00 UTC"
+},
+
+{
+  "university_name": "Pinehurst University",
+  "id": 9,
+  "location": "Pinehurst, North Carolina, USA",
+  "website": "https://www.pinehurstuniversity.edu",
+  "email": "info@pinehurstuniversity.edu",
+  "phone": "+1 (910) 555-1122",
+  "degree": "Bachelor of Science",
+  "building_number": "44556",
+  "random_date": "2024-04-04 16:15:00 UTC"
+},
+  {
+  "university_name": "Rainbow University",
+  "id": 10,
+  "location": "Rainbow City, Arizona, USA",
+  "website": "https://www.rainbowuniversity.edu",
+  "email": "info@rainbowuniversity.edu",
+  "phone": "+1 (623) 555-3344",
+  "degree": "Bachelor of Arts",
+  "building_number": "77889",
+  "random_date": "2024-04-04 17:30:00 UTC"
+}
+]
